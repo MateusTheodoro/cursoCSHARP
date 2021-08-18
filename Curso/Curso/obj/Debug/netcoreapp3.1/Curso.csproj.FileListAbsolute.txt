@@ -1,0 +1,14 @@
+C:\Users\Mateus\Documents\GitHub\cursoCSHARP\Curso\Curso\bin\Debug\netcoreapp3.1\Curso.exe
+C:\Users\Mateus\Documents\GitHub\cursoCSHARP\Curso\Curso\bin\Debug\netcoreapp3.1\Curso.deps.json
+C:\Users\Mateus\Documents\GitHub\cursoCSHARP\Curso\Curso\bin\Debug\netcoreapp3.1\Curso.runtimeconfig.json
+C:\Users\Mateus\Documents\GitHub\cursoCSHARP\Curso\Curso\bin\Debug\netcoreapp3.1\Curso.runtimeconfig.dev.json
+C:\Users\Mateus\Documents\GitHub\cursoCSHARP\Curso\Curso\bin\Debug\netcoreapp3.1\Curso.dll
+C:\Users\Mateus\Documents\GitHub\cursoCSHARP\Curso\Curso\bin\Debug\netcoreapp3.1\Curso.pdb
+C:\Users\Mateus\Documents\GitHub\cursoCSHARP\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.csproj.AssemblyReference.cache
+C:\Users\Mateus\Documents\GitHub\cursoCSHARP\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\Documents\GitHub\cursoCSHARP\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.AssemblyInfoInputs.cache
+C:\Users\Mateus\Documents\GitHub\cursoCSHARP\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.AssemblyInfo.cs
+C:\Users\Mateus\Documents\GitHub\cursoCSHARP\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Documents\GitHub\cursoCSHARP\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.dll
+C:\Users\Mateus\Documents\GitHub\cursoCSHARP\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.pdb
+C:\Users\Mateus\Documents\GitHub\cursoCSHARP\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.genruntimeconfig.cache
